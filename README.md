@@ -8,7 +8,26 @@ e crescimento através de estudos contínuos.
 
 • Curso básico em Python 
 
+##
+#### Linguagens e tecnologias que mais uso:
 
+<div dir="auto">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,mysql,figma,github,sqlite,vscode,flask,androidstudio,anaconda,jquery,docker,ps&theme=light" />
+  </a>
+</p>
+</div>
+
+##
+
+#### Meu status no GitHub:
+
+<div align="center">
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuelenSR&hide_progress=true&langs_count=10&theme=highcontrast"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuelenSR&layout=donut-vertical&langs_count=5&theme=highcontrast"/>
+    	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SuelenSR&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
 
 ##
 
