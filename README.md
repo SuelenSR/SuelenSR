@@ -2,11 +2,16 @@
 Olá, Bem Vindo ao meu perfil do GitHub, sou formada em Processamento de Dados e trabalho como Analista de Suporte técnico há mais de 5 anos. Estou buscando novos padrões de desenvolvimento 
 e crescimento através de estudos contínuos. 
 
-• Curso concluído de Figma
 
 • Curso de Power BI 
+• Curso concluído de Figma
+• Curso intermediário em Python 
+• Linux Avançado
+• Sql Server 
+• Linux Avançado
+• Mongo DB
+• Grafana 
 
-• Curso básico em Python 
 
 ##
 #### Linguagens e tecnologias que mais uso:
